@@ -1,2 +1,1 @@
-print("hello world!!!")
-print("hello Kazakhstan!!!")
+print("Developer text")
